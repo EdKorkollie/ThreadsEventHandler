@@ -3,6 +3,7 @@ import java.util.stream.Stream;
 
 public class Main {
 
+
     // DO NOT MODIFY THIS CLASS!
     public static void main(String[] args) {
         Stream.of(
